@@ -32,7 +32,7 @@ A machine learning solution to predict telecom customer churn, achieving **84% c
 
 💼 Business Impact
 1. Identified top 3 churn drivers:
-     Month-to-month contracts
-     Fiber optic internet users
-     Customers with high monthly charges
+     - Month-to-month contracts
+     - Fiber optic internet users
+     - Customers with high monthly charges
 Potential to reduce churn by 27% with targeted retention campaigns
