@@ -37,4 +37,5 @@ A machine learning solution to predict telecom customer churn, achieving **84% c
      - Customers with high monthly charges
 Potential to reduce churn by 27% with targeted retention campaigns
 
-[![Deploy](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=your-github-username/repo-name)
+## 🌟 Live Demo  
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-prediction-c7poefg4v2nkp8jyzgaivh.streamlit.app/)
