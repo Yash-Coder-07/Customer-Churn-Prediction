@@ -36,3 +36,5 @@ A machine learning solution to predict telecom customer churn, achieving **84% c
      - Fiber optic internet users
      - Customers with high monthly charges
 Potential to reduce churn by 27% with targeted retention campaigns
+
+[![Deploy](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=your-github-username/repo-name)
