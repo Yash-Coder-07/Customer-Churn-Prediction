@@ -1,5 +1,9 @@
 #  Telco Customer Churn Prediction 
-**Predicting customer attrition using machine learning**  
+**Predicting customer attrition using machine learning** 
+
+## 🌟 Live Demo  
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-prediction-c7poefg4v2nkp8jyzgaivh.streamlit.app/)
+
 # Overview
 A machine learning solution to predict telecom customer churn, achieving **84% cross-validation accuracy** with Random Forest. Addresses class imbalance using **SMOTE** and compares multiple models (XGBoost, Decision Tree).
 
@@ -37,5 +41,4 @@ A machine learning solution to predict telecom customer churn, achieving **84% c
      - Customers with high monthly charges
 Potential to reduce churn by 27% with targeted retention campaigns
 
-## 🌟 Live Demo  
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-prediction-c7poefg4v2nkp8jyzgaivh.streamlit.app/)
+
